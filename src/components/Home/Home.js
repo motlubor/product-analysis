@@ -1,7 +1,10 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
+import ReviewProduct from '../ReviewProduct/ReviewProduct';
+import Reviews from '../Reviews/Reviews';
 import './Home.css'
 
 const Home = () => {
+
     return (
         <div className='home-container'>
             <div className='home'>
@@ -10,7 +13,9 @@ const Home = () => {
                 <p>Customer Satisfaction is Our Main Goal. As Well By Giving Our Best Services</p>
                 <p>We Always Try to Keep Qualityful and Also in Price Product That You Can Afford Easyly</p>
                 <h2>Customer Reviews</h2>
-                <div className='review'>
+
+                <div>
+                    <Reviews></Reviews>
 
 
                 </div>
