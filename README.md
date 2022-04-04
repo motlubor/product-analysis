@@ -1,5 +1,6 @@
 # Camera Business Analysis
-*reviews
+* _reviews
+* _review
 
 [Camera Business Analysis](https://github.com/facebook/create-react-app).
 
