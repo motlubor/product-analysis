@@ -25,6 +25,7 @@ const Reviews = (props) => {
                         icon={review.icon}
                         img={review.img}
 
+
                     ></ReviewProduct>)
                 }
 
