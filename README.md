@@ -1,6 +1,6 @@
 # Camera Business Analysis
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Camera Business Analysis](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
