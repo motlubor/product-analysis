@@ -1,6 +1,8 @@
 # Camera Business Analysis
-* _reviews
-* _review
+* Routing
+* Customer Review
+* Website Description
+* Customers Ratings
 
 [Camera Business Analysis](https://github.com/facebook/create-react-app).
 
