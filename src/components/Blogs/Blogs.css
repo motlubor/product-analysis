@@ -1,0 +1,20 @@
+.answer h3 {
+    color: rgb(145, 71, 46);
+    margin-bottom: 20px;
+}
+
+.question1 {
+    background-color: antiquewhite;
+    margin: 70px 120px;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 2px 12px 16px 8px rgb(209, 201, 201);
+}
+
+.question2 {
+    background-color: rgb(234, 235, 224);
+    margin: 70px 120px;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 2px 12px 16px 8px rgb(209, 201, 201);
+}

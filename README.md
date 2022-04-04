@@ -4,7 +4,7 @@
 * Website Description
 * Customers Ratings
 
-[Camera Business Analysis](https://github.com/facebook/create-react-app).
+[Live Site Link](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
