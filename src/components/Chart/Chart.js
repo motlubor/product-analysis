@@ -16,7 +16,6 @@ const Chart = () => {
         <BarChart width={400} height={250} data={datas}>
             <Bar dataKey="investment" fill="#8884d8" />
             <Bar dataKey="sell" fill="#85ca9d" />
-            <Bar dataKey="revenue" fill="#ffc658" />
             <XAxis dataKey="month"></XAxis>
             <YAxis></YAxis>
             <YAxis></YAxis>
