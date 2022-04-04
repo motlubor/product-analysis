@@ -1,0 +1,36 @@
+.home-container {
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+}
+
+
+
+.home-container h1 {
+    font-size: 50px;
+    color: rgb(33, 224, 160);
+}
+
+.home-container p {
+    color: rgb(17, 37, 63);
+    font-weight: 500;
+}
+
+.home-image {
+    text-align: end;
+    margin-top: 1 0px;
+}
+
+.review {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.review-button {
+    margin-top: 80px;
+    background-color: rgb(71, 71, 219);
+    border: 0;
+    border-radius: 5px;
+    padding: 10px 15px;
+    color: white;
+    cursor: pointer;
+}

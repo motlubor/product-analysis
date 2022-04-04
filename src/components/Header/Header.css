@@ -1,0 +1,15 @@
+.header-style {
+    margin: 40px auto;
+}
+
+.header-style a {
+    text-decoration: none;
+    margin-right: 45px;
+    font-size: 18px;
+    color: rgba(58, 56, 56, 0.952);
+    font-weight: 500;
+}
+
+.header-style a:hover {
+    color: orange;
+}
