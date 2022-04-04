@@ -1,50 +1,66 @@
 [
   {
     "id": 1,
+    "img": "https://images.unsplash.com/photo-1648496322171-0883c254acc0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDIwfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "name": "Noyon",
+    "icon": "https://media.istockphoto.com/photos/or-five-stars-sign-symbol-on-white-background-illustration-ranking-picture-id1306258842?b=1&k=20&m=1306258842&s=170667a&w=0&h=cECXPjGqDqZxGklFI87z7TxHoqTQ1Iv0qaf34C4RurI=",
     "review": "very goods products excellent.",
-    "ratings": 4.5
+    "ratings": "Ratings"
   },
   {
     "id": 2,
+    "img": "https://images.unsplash.com/photo-1594692648087-a5718e769816?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDZ8dG93SlpGc2twR2d8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
     "name": "Ali",
+    "icon": "https://t3.ftcdn.net/jpg/03/22/73/02/360_F_322730229_d3WmzXvTumDznXMxpz0ePEnmCvuuJrXm.jpg",
     "review": "very goods products excellent.",
-    "ratings": 4.5
+    "ratings": "Ratings"
   },
   {
     "id": 3,
+    "img": "https://images.unsplash.com/photo-1618937995753-94fe3bd8375c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDM5fHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "name": "Humayun",
+    "icon": "https://images.squarespace-cdn.com/content/v1/591e8c1be6f2e191e5385e62/1517386611659-331EVQFQ5CE2G7NVHCL0/Five-Stars.jpg?format=1000w",
     "review": "very goods products excellent.",
-    "ratings": 4.5
+    "ratings": "Ratings"
   },
   {
     "id": 4,
+    "img": "https://images.unsplash.com/photo-1648146380816-dbc8c11996c7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDUzfHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "name": "Shahin",
+    "icon": "https://t3.ftcdn.net/jpg/03/22/73/02/360_F_322730229_d3WmzXvTumDznXMxpz0ePEnmCvuuJrXm.jpg",
     "review": "very goods products excellent.",
-    "ratings": 4.5
+    "ratings": "Ratings"
   },
   {
     "id": 5,
+    "img": "https://images.unsplash.com/photo-1648060980523-3d7bc43925dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=415&q=80",
     "name": "Shahbaz",
+    "icon": "https://images.squarespace-cdn.com/content/v1/591e8c1be6f2e191e5385e62/1517386611659-331EVQFQ5CE2G7NVHCL0/Five-Stars.jpg?format=1000w",
     "review": "very goods products excellent.",
-    "ratings": 4.5
+    "ratings": "Ratings"
   },
   {
     "id": 6,
+    "img": "https://images.unsplash.com/photo-1607708121955-e44b3dce5067?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDc4fHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "name": "Sulaiman",
+    "icon": "https://t3.ftcdn.net/jpg/03/22/73/02/360_F_322730229_d3WmzXvTumDznXMxpz0ePEnmCvuuJrXm.jpg",
     "review": "very goods products excellent.",
-    "ratings": 4.5
+    "ratings": "Ratings"
   },
   {
     "id": 6,
+    "img": "https://images.unsplash.com/photo-1647280783464-91237e30744a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDg4fHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
     "name": "Firoz",
+    "icon": "https://images.squarespace-cdn.com/content/v1/591e8c1be6f2e191e5385e62/1517386611659-331EVQFQ5CE2G7NVHCL0/Five-Stars.jpg?format=1000w",
     "review": "very goods products excellent.",
-    "ratings": 4.5
+    "ratings": "Ratings"
   },
   {
     "id": 6,
+    "img": "https://images.unsplash.com/photo-1646947424113-c43bcee69dfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDEyOHx0b3dKWkZza3BHZ3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
     "name": "Salim",
+    "icon": "https://t3.ftcdn.net/jpg/03/22/73/02/360_F_322730229_d3WmzXvTumDznXMxpz0ePEnmCvuuJrXm.jpg",
     "review": "very goods products excellent.",
-    "ratings": 4.5
+    "ratings": "Ratings"
   }
 ]

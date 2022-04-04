@@ -3,8 +3,6 @@
     grid-template-columns: 3fr 2fr;
 }
 
-
-
 .home-container h1 {
     font-size: 50px;
     color: rgb(33, 224, 160);
@@ -20,10 +18,9 @@
     margin-top: 1 0px;
 }
 
-
-
 .review-button {
     margin-top: 80px;
+    margin-bottom: 100px;
     background-color: rgb(71, 71, 219);
     border: 0;
     border-radius: 5px;
