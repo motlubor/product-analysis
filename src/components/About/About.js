@@ -4,7 +4,7 @@ import './About.css';
 const About = () => {
     return (
         <div>
-            <h1>This is About Section</h1>
+            <h1>Comings Soon our latest update to know about us........................</h1>
         </div>
     );
 };
