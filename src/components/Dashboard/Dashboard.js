@@ -1,11 +1,16 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
+import { Bar, BarChart, XAxis, YAxis } from 'recharts';
+import Chart from '../Chart/Chart';
 import './Dashboard.css';
 
 const Dashboard = () => {
+
     return (
         <div>
-            <h1>This is Dashboard</h1>
-        </div>
+            <Chart></Chart>
+
+        </div >
+
     );
 };
 
