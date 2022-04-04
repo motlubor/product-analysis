@@ -13,7 +13,7 @@ const Reviews = (props) => {
 
     return (
         <div>
-            <h2>Review Comes from Customer</h2>
+            <h2 className='customer-rev'>Review Comes from Customer</h2>
 
             <div className='review'>
                 {

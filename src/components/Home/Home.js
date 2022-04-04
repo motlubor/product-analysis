@@ -13,7 +13,7 @@ const Home = () => {
                 <p>We respect your choose and Demand. We Afford to Supply Our Best Product to You.</p>
                 <p>Customer Satisfaction is Our Main Goal. As Well By Giving Our Best Services</p>
                 <p>We Always Try to Keep Qualityful and Also in Price Product That You Can Afford Easyly</p>
-                <h2>Customer Reviews</h2>
+
 
                 <div>
                     <Reviews></Reviews>

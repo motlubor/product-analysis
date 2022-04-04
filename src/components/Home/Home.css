@@ -23,8 +23,9 @@
     margin-bottom: 100px;
     background-color: rgb(71, 71, 219);
     border: 0;
+    font-size: 17px;
     border-radius: 5px;
-    padding: 10px 15px;
+    padding: 10px 25px;
     color: white;
     cursor: pointer;
 }
