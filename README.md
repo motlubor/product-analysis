@@ -1,4 +1,5 @@
 # Camera Business Analysis
+*reviews
 
 [Camera Business Analysis](https://github.com/facebook/create-react-app).
 
